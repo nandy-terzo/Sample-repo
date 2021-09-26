@@ -1,4 +1,12 @@
 void main()
 {
+	int a=10;
+	int b=20;
+	add();
 
+}
+
+Void add()
+{
+	printf("%d",a+b); //a+b
 }

@@ -10,3 +10,8 @@ Void add()
 {
 	printf("%d",a+b); //a+b
 }
+
+void sub()
+{
+	printf("%d",a-b);
+}
